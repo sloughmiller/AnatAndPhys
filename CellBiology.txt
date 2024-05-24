@@ -1,0 +1,415 @@
+Practice Review
+Cell Biology
+            
+                        
+ 
+                        A.        
+ 
+                        1. Name the 3 basic tenets of the cell theory:
+                                    a.  All organisms are composed of 1 or more cells 
+                                    b. The cell is the basic unit of life.
+                                    c. All cells only arise from pre-existing cells
+                                    
+ 
+                        2.         Name the 3 main parts of a human cell.
+                                    a.  Membrane	
+                                    B. Nucleus
+                                    C. Cytoplasm
+ 
+                        3.         Cell/Plasma membrane: NONPOLAR
+				Separates internal contents from external environment. (Cilia, flagellum, mircrovilli modify extension of PM)
+                                    
+ 
+                                    a.         Name 2 main types of membrane proteins
+                                                1) Integral: embedded within and extend across, PhosLip bilayer, hydrophobic regions interact with hydrophobic interior. Hydrophilic region exposed to aqueous environment on with side of membrane. May glycoProteins with attached carbHydrate groups
+                                                2) Peripheral Protein: not embedded in lipid bilayer. Attach loosely to surfaces of the membrane
+ 
+                                    b.         What is the glycocalyx?
+					COATING OF SUGAR. Also known as the pericellular matrix and sometime cell coat, is a glycoprotein and glycolipid covering which surrounds the cell membranes of bacteria, epithelial cells, and other cells
+
+ 
+                                    c.         List 6 functions of membrane proteins
+                                                1)  Transport: exchange of moleC and their Kin Energy and momentum across the boundary b/t adj layers of fluid or across cell memB
+                                                2) Enzyme Activity: protein built into the membrane with active site exposed
+                                                3) Signal Transduction: linkage of mechanical, chem or ElectrMag stimulus to a specific cell response
+                                                4) Cell-Cell Recog: ability of a cell to disting one tye of neighbor cell from another needed to function (CarbH are important for this)
+                                                5) Intercellular Joining: function of memB proteins of adj cells hook together as in gap junction or tight junctions
+                                                6) Attachment of Cytoskeleton and ExtraCell Matrix: Maintains the shape of cell
+ 
+ 
+                        4.         Cells Junctions (list 3 types of cell junctions, state their function, and give an example of where you might find each type)
+ 
+                                    a.   Tight Junctions: strands or rows of proteins linking cells, prevents substances form passing b/t cells (forces material to move through NOT b/t cells) maintains polarity of epithelia. (small intestine: prevent digestive enzymes from moving b/t cells, bladder: prevent urine exiting through urinary wall)                   
+                                    B. Desmosomes: composed of proteins that bind neighbor cells (like snaps between adj cells), (Hemidesmosomes anchor basal layer of cells of epidermis to under components. Commonly found in external layer of skin                     
+                                    c. Gap junctions: form tiny, fluid filled tunnels, provide direct passageway for substances to travel b/t cells (ions b/t cells in cardiac muscle)
+            
+ 
+                        7.         Basic movement of materials:
+                                    a.         List the 4 types of passive diffusion (EXCLUDING osmosis, which is a special type of diffusion and is asked about below) and briefly describe/define them:
+                                                1)  simple diffusion: moleC pass b/t phosLip moleC, PM cannot regulate, movement depend on concentration gradient alon, solutes small and nonP (O2, CO2, some fatty acids, ethanol, urea)
+                                                2) facilitate diffusion: transport from small charged or Polar solutes, need assistance from PM proteins, 2 types: channel mediated and carrier mediated, maximum rate of transport determined by number of channels and carriers 
+                                                3) Channel Mediated: movement of small ions through water filled protein channels, channels specific for one ion type, Leak channels are always open, Gated are usually closed and open in response to stium
+                                                4) Carrier Mediated: small, polar moleC assisted across membrane by carrier protein, transports substances like glucose, binding of substance causes change in carrier protein shape, releases sub on other side of membrane, move subs down their gradient, carrier transporting only one sub call upiporter
+                                                            
+ 
+                                    b.         Define osmosis. Describe what happens to a cell placed in each of the following  media (draw these):
+                                                1)         hypertonic medium: solution with higher concentration of solutes than cytosol, water moves down concentration gradient from in to outside cell. Causes shrinkage (Crenation = cell shrinks)
+ 
+ 
+                                                2)         hypotonic medium: solution has lower concentration of solutes, higher concentration of water than in cytosol, water moves down concentration gradient from out to in cell, swells cells (lysis = rupturing of red blood cells, Hemolysis = rupturing erthrocytes…I’m not sure how this is different…)
+ 
+ 
+                                                3)         isotonic medium:  no movement
+ 
+ 
+                                    c.         List and define the 2 broad types of active transport (primary and secondary).  Then briefly define the types of vesicular transport and exocytosis below:
+ 
+                                                1)         Active Transport: 
+                                                            a)  Primary uses energy DIRECTLY from breakdown of ATP, phosphate group added to transport protein, results in change in protein’s shape, result in movement of solute across memB, (addition of phosphate to protein is call phosphorylation. TYPES: ion channels)
+ 
+                                                            b) Secondary: moves sub against concentration gradient, uses energy provided by movement of second sub down gradient, kinetic energy providing power to pump other substances. Na+ moving down concentration gradient, dependent of NA+/K+ pumps for energy.
+ 
+                        
+                                                2)         Vesicular Transport: requires vesicles which are membrane bounded sac filled with materials, requires energy to transport vesicles
+                                                            a)         Endocytosis: vesicles encloses material outside cell (brings it in)
+                                                                        1)         Phagocytosis: cell eats large particle, forms large extensions called pseudopodia, fuses with lysosme (content disgusted here) ONLY in a few cell types
+ 
+                                                                        2)         Pinocytosis (fluid-phase endocytosis): internalization of droplets of interstitial fluid, lots of small vesicles formed (cells of capillary wall)
+ 
+                                                                        3)         Receptor-mediated endocytosis: movement of specific moleC from interstitial environment into cell, requires a receptor, enables cell to obtain bulk quantities of substances (transport of cholesterol from blood to cell)
+ 
+                                            b)         Exocytosis: vesicle fuses with membrane (lets it out)
+ 
+                        8.         Cell-Environment Interactions
+                                    a.         What are cell adhesion molecules (CAMs) and what do they do?
+					are a subset of cell surface proteins that are involved in the binding of cells with other cells or with the extracellular matrix (ECM
+ 
+
+                                    b.         What are the roles of membrane receptors?
+					Cellular receptors are proteins either inside a cell or on its surface that receive a signal. This is a chemical signal in normal physiology where a protein ligand binds a protein receptor. The ligand is a chemical messenger released by 1 cell to signal itself or a different cell.
+
+                                                
+ 
+                        9.         Cytoplasm and cytoplasmic organelles 
+ 
+                                    a.         What is cytoplasm? 
+					
+ 					Cellular contents between plasma membrane and nucleus
+Includes cytosol, organelles, and inclusions
+                                    b.         State the function(s) of each of the following cell organelles/structures (state
+                                                where you find them and what they look like?).
+                                                1)         Nucleus: Largest structure in cell; enclosed by nuclear envelope
+Contains genetic material, DNA
+Inner fluid called nucleoplasm
+ 
+                                                            a)         Nucleolus: not membrane bound, composed of protein and RNA, produces small and large ribosomal subunits, not present in all cells, (not in sperm cells, more than one in nerve cells b/c of production of many proteins) 
+ 
+                                                            b)         Chromatin: when not dividing DNA are in final filamented mass called chromatin, when dividing chromatin become tightly coiled mass called chromosomes
+ 
+                                                2)         Ribosomes
+                                                            What are ribosomes composed of? 
+Contain protein and ribonucleic acid, arrranged into large and small subunits, made within nucleous and assembled in cytoplasm DURING TRANSLATION: RNA used for synthesis of protein by ribosomes in cytosol. 
+                                                
+ 
+                                                3)         Endoplasmic Reticulum (ER)
+                                                            List the 2 types of ER and state a few functions of each:
+                                                            a)  Rough (with Rib)
+ 							Protein production by ribosomes 
+Proteins inserted into membrane as synthesized
+Original structure of protein changed
+Transported out in enclosed membrane sacs 
+shuttle proteins from rough ER lumen to Golgi apparatus
+Peroxisomes produced here
+ 
+                                                            b) Smooth (w/o Rib)
+						Continuous with rough ER
+Diverse metabolic processes varying by cell
+Some functions:
+synthesis, transport, and storage of lipids
+carbohydrate metabolism
+detoxification of drugs, alcohols, and poisons
+Plentiful in cells of the testes
+Plentiful in liver
+ 
+ 
+                                                4)         Golgi Apparatus
+                                                            List several functions:
+                                                
+ 						Modification, packaging, and sorting of proteins
+fusion of transport vesicles from ER at cis-face
+modification of molecules, e.g., addition of phosphate group
+Transport of material from cis-face to trans-face
+Formation of secretory vesicles and lysosomes
+some vesicles becoming part of plasma membrane
+others releasing contents outside cell
+Golgi extensive in cells specializing in protein secretion
+ 
+ 
+                                                5)         Mitochondria
+                                                            What is the primary function of mitochondria?
+						Oblong shaped organelles with double membrane
+Contain genes for producing mitochondrial proteins
+Engage in aerobic cellular respiration
+Complete digestion of fuel molecules to synthesize ATP
+Termed “powerhouses” of the cell
+Increase through fission 
+ 
+                                                6)         Lysosomes
+                                                            What do they contain?
+							Small, membranous sacs
+Contain digestive enzymes formed by Golgi
+Participate in digestion of unneeded substances
+Digest contents of endocytosed vesicles
+ 
+                                                7)         Peroxisomes
+                                                            What do they contain?
+						Membrane-enclosed sacs smaller than lysosomes
+Pinched off vesicles from rough ER
+Contain oxidative enzymes
+Serve in detoxification
+produce hydrogen peroxide
+used to oxidize other substances
+Most abundant in liver
+ 
+                        What is meant by the endomembrane system?
+			Extensive array of membrane-bound structures
+Includes ER, Golgi apparatus, vesicles, lysosomes, peroxisomes
+Includes plasma membrane and nuclear envelope
+Connected directly or through vesicles moving between them
+Provides means of transporting substances within cells
+ 
+                                                8)         Cytoskeleton
+                                                            a)         Microfilaments: Smallest components of the cytoskeleton
+Actin protein monomers in two twisted filaments 
+Form interlacing network on cytoplasmic side of membrane
+Functions of microfilaments:
+help maintain cell shape
+form internal support of microvilli
+separate two cells during cytokinesis
+facilitate cytoplasmic streaming
+participate in muscle contraction 
+                                                                        
+                                                            b)         Microtubules: Largest components of the cytoskeleton
+Hollow cylinders
+Long chains of tubulin protein
+Impermanent structures elongated or shortened as needed. Function to:
+maintain cell shape
+organize and move organelles
+form components of cilia and flagella
+participate in cellular vesicle transport
+separate chromosomes during cell division
+ 
+                                                            c)         Intermediate Filaments: Intermediate-sized components of the cytoskeleton
+More rigid than microfilaments
+Support cells structurally and stabilize cell junctions
+Varied protein composition between cells
+e.g., keratin, in skin, hair, and nails
+ 
+                                                9)         Cellular Extensions
+                                                            a)         Cilia: Usually found on exposed surfaces of specific cells
+E.g., those lining portions of respiratory tract
+beating moves mucus and substances toward the throat
+            
+                                                            b)         Flagella: Similar to cilia in structure
+Longer and usually appear alone
+Helps propel an entire cell
+sperm cell
+ 
+                                                            c)         Microvilli: Microscopic extensions from surface of plasma membrane
+Much smaller than cilia
+More densely packed, lack powered movement
+Supported by microfilaments
+Form extensive plasma membrane surface
+Ex. small intestine
+increased surface area needed to absorb nutrients
+ 
+ 
+ 
+                        10.       Compare and Contrast Prokaryotic and Eukaryotic cells:
+				Prokaryotes: No membrane bound organelles (so no nucleus)
+Cell wall (peptidoglycan)
+Small (0.2 - 2 um)
+Single, circular DNA (lack histones)
+			Eukaryotes: Membrane bound organelles
+DNA (chromosomes)
+Size 10 – 100 um
+				
+ 
+   B.        Protein Synthesis
+               1.         Transcription
+                           a.         Where does transcription occur?  NUCLEUS
+                           b.         What happens during transcription?
+					STEP 1 INITIATION: RNA polymerase binds to the DNA at the site of the gene. it unwinds and unzips the DNA only at the gene. then it unwinds and unzips the DNA only at the gene. it is only on one side of the DNA strand.
+					STEP 2 ELOGATION: RNA polymerase calls in the appropriate complementary nucleotide on one side of the DNA only. uracil replaces thymine, ribose replaces deoxyribose
+					STEP 3 TERMINATION: mRNA comes off DNA and leaves nucleus to a ribosome. before leaving it puts a 5' cap and and a poly A tail on one end and another. this makes it easier for mRNA to leave the nucleus
+					AFTER: mRNA leaves nucleus through pores and goes to the ribosome
+                           c.         What do the RNA polymerases do? BINDS TO DNA AT SITE OF GENE
+                           d          What is the sense strand (template) of DNA?
+                           e.         What is the antisense strand (coding strand) of DNA? THE STRAND TRANSCRIBED
+                           f.          What is mRNA? MESSENGER RNA SINGLE STRANDED THAT CREATED DURING TRANSCRIPTION
+                           g.         What is needed for transcription? RNA POLYMERASE
+                           h.         What types of modifications are made to the mRNA before it leaves the nucleus?
+		INTRONS REMOVED FROM, EXONS SPLICED TOGETHER, CAPPING (GUANINE IS BONDED), ADDITION OF polyA TO TAIL  (REMOVALE OF TERMINAL SEGMENTS)
+ 
+               2.         Translation
+                           a.         Where does translation occur? CYTOPLASM (in prokaryotes) NUCLEUS (in eukaryotes)
+                           b.         What happens during translation?
+				1. Ribosome comprised of large and small subunits hold a strand of mRNA so that its codons align with the docking sites on the large subunit
+2. Incoming tRNA is charged, and it carries a bound amino acid to the A site in the large subunit
+3. Once docked, it aligns its anticodons with the codons on the mRNA strand and moves to the P site
+4. Attaches the newly synthesized amino acid to the forming polypeptide
+5. tRNA exits the ribosome at the E site and is no longer charged
+                           c.         What is rRNA?  What does it do? 
+Ribosomal RNA ribozyme which carries out protein synthesis in ribosomes
+                           d.         What is tRNA?  What does it do?
+						TRANSFER RNA:  Brings specific amino acids to a specific mRNA codon
+                           e.         What is a codon?  (is it on DNA, mRNA, rRNA, or tRNA?)
+					sequence of three DNA or RNA nucleotides that corresponds with a specific amino acid or stop signal during protein synthesi
+                           f.          What is an anticodon?  (is it on DNA, mRNA, rRNA, or tRNA?)
+					base pairs with complementary codon in mRNA
+                           g.         How do the amino acids come together?  What carries them?
+					Amino acid acceptor region
+Where specific amino acid attaches to tRNA
+Based on tRNA’s anticodon sequence
+Catalyzed by aminoacyl-tRNA synthetase
+Each amino acid attached to correct tRNA, then called charged tRNA
+Amino acids
+building blocks for protein synthesis
+20 found in proteins of living things
+                           h.         What are the start and termination codons? Start AUG Stop: UAA, UAG, UGA 
+                           i.          What are polyribosomes?
+					A polyribosome is a group of ribosomes bound to an mRNA molecule like "beads" on a "thread". It consists of a complex of an mRNA molecule and two or more ribosomes that act to translate mRNA instructions into polypeptides
+ 
+ 
+
+
+
+
+               3.         Be prepared to fill in DNA, mRNA, and tRNA sequences and put together amino acids to make
+                           polypeptide chains on the exam.
+               DNA                                                                                T                      C                            
+               DNA                                A                                                                                                    
+               mRNA     A                                              G                                             C                            
+               tRNA                                                                                                                              A     
+ 
+               Which is the sense strand? 
+               What is the codon sequence?  
+               What is the anticodon sequence?
+   
+ 
+ 
+               Given:   SER               TYR                ARG                MET                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+                           AGA               AUG               UCU                UAC
+ 
+                           What is the order of amino acids coded for? PROTEINS
+ 
+            Which of the following is true concerning mRNA and/or tRNA?
+                        a.  tRNA is necessary for transcription
+                        b.  tRNA consists of a triple strand of RNA
+                        c.  each specific type of tRNA can combine with several different amino acids
+                        d.  mRNA is only necessary in transcription, whereas tRNA is only necessary in translation
+                        e.  none of the above are true
+ 				
+a. tRNA is necessary for transcription: This statement is false. tRNA is not necessary for transcription; it is involved in translation.
+b. tRNA consists of a triple strand of RNA: This statement is false. tRNA consists of a single strand of RNA that folds into a characteristic cloverleaf structure.
+c. each specific type of tRNA can combine with several different amino acids: This statement is false. Each specific type of tRNA can only combine with one specific amino acid, as determined by its anticodon.
+d. mRNA is only necessary in transcription, whereas tRNA is only necessary in translation: This statement is false. mRNA is necessary in translation to carry the genetic code from the DNA to the ribosome, where it is translated into protein, and tRNA is also necessary in translation to bring the correct amino acids to the ribosome based on the codons in the mRNA
+
+   C.        Cell Division
+               1.         Karyotype
+                           a.         What does karyotype mean?
+					A karyotype refers to the complete set of chromosomes in a cell of an organism, organized and displayed in a standard format
+                           b.         How many unique chromosomes does a human have?
+					46
+                           
+                           c.         When you have 2 of each type of chromosome,
+                                       a.  the pairs are referred to as   DIPLOID                                                          .
+                                       b.  the cell is diploid or haploid? CELL/ORGANISM THAT HAS ONLY ONE COMPLETE SET OF CHROMOSOMES. 
+   
+                           d.         What sex are you if you are......
+                                       a.  XX F
+                                       b.  XXY M klineflter sydrome
+                                       c.  XY M
+                                       d.  XO F turner syndrome only 1 x
+                                       e.  XYY M
+ 
+                           e.         Who determines the sex of a child? (mom or dad?) I hope you know this without me telling you.
+                           f.          Define chromatid.
+A chromatid is one of the two identical halves of a duplicated chromosome. During the process of cell division, specifically during mitosis and meiosis, chromosomes are replicated so that each consists of two sister chromatids. These chromatids are joined together by a region called the centromere.
+
+
+                           g.         Draw and label the parts of a homologous pair with chromatids.
+
+
+ 
+               2.         Cell Cycle
+                           a.         What parts of the cell cycle occur during interphase?
+					Interphase is the phase of the cell cycle during which the cell prepares for division and performs its normal functions. It consists of three main stages:
+G1 Phase (Gap 1): The cell grows and performs its normal functions. During this phase, the cell increases in size, produces RNA, and synthesizes proteins necessary for DNA replication.
+S Phase (Synthesis): DNA replication occurs during this phase. Each chromosome is duplicated to form two sister chromatids.
+G2 Phase (Gap 2): The cell continues to grow and prepares for mitosis. During this phase, the cell synthesizes proteins and continues to grow, ensuring all necessary components are ready for cell division.
+
+                           b.         What happens during the S stage of the cell cycle?
+					During the S stage (Synthesis phase) of the cell cycle, DNA replication occurs. Each chromosome in the cell is duplicated, resulting in two identical sister chromatids held together at the centromere. This ensures that each daughter cell will receive an identical set of chromosomes during cell division
+                           c.         Where does meiosis occur?  What is the purpose?  What does it make?  
+					Where: Meiosis occurs in the reproductive organs (gonads) of an organism—specifically in the testes of males and the ovaries of females.
+Purpose: The primary purpose of meiosis is to reduce the chromosome number by half, creating haploid cells from diploid cells, which is essential for sexual reproduction. This reduction ensures that when two gametes (sperm and egg) fuse during fertilization, the resulting zygote has the correct diploid number of chromosomes.
+What it makes: Meiosis produces four genetically diverse haploid cells (gametes). In males, these are sperm cells, and in females, these are egg cells (ova).
+
+                           d.         Where does mitosis occur?  What is the purpose?  What does it make?  
+					Where: Mitosis occurs in somatic (non-reproductive) cells throughout the body.
+Purpose: The primary purpose of mitosis is to generate new cells for growth, tissue repair, and asexual reproduction. Mitosis ensures that each daughter cell receives an identical set of chromosomes, maintaining the chromosome number of the original cell.
+What it makes: Mitosis produces two genetically identical diploid daughter cells from a single parent cell. Each daughter cell has the same number of chromosomes as the parent cell.
+ 
+               3.         Mitosis
+                           a.         Name the phases of mitosis in order:
+                                       1)  Prophase
+                                       2) Metaphase
+                                       3) Anaphase
+                                       4) Telophase
+                           b.         When are the sister chromatids pulled apart?
+					Anaphase
+                           c.         Are the chromosomes lined up on the equatorial plate as  homologou pairs?
+					No, the chromosomes are not lined up on the equatorial plate as homologous pairs during mitosis. During Metaphase of mitosis, individual chromosomes (each consisting of two sister chromatids) align at the metaphase plate (equatorial plate). Homologous pairs line up as pairs only during metaphase I of meiosis.
+					
+                           d.         What is cytokinesis?  What is the cleavage furrow? 
+				Cytokinesis is the process that follows mitosis, during which the cytoplasm of a single eukaryotic cell is divided to form two daughter cells. It ensures that each daughter cell has a complete set of organelles and sufficient cytoplasmic material.
+Cleavage furrow is the indentation that begins to form on the cell's surface during cytokinesis in animal cells. It indicates the area where the cell membrane will eventually pinch inward and divide the cell into two separate daughter cells. The cleavage furrow is formed by a contractile ring of actin and myosin filaments that constrict the cell membrane until the cell splits into two.
+
